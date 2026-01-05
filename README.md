@@ -22,6 +22,40 @@
 
 <br />
 
+## 🛠️ Stack Tecnológico
+
+<p align=center>
+ <kbd>
+      <kbd>Tecnologías que domino</kbd>
+      <br>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,java,ts,js&theme=dark" />
+      </a>
+    </kbd>
+      <br>
+    <kbd>
+      <kbd>Tecnologías que suelo usar</kbd>
+      <br>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=django,css,bootstrap,react,docker,aws&theme=dark" />
+      </a>
+    </kbd>
+      <br>
+    <kbd>
+      <kbd>Tecnologías en aprendizaje</kbd>
+      <br>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,linux,cs,cpp,php,nodejs,arduino&theme=dark" />
+      </a>
+    </kbd>
+</p>
+</p>
+
+<br />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0101ff,100:ff01dd&section=footer" alt="footer" />
 </p>
