@@ -4,22 +4,21 @@
 
 <br />
 
-<table border="0" width="100%" align=center>
-  <tr>
-    <td width="30%" align="center">
-      <img src="media/alzorPFP.png" width="200" height="200" alt="Foto de perfil de Alvaro" />
-    </td>
-    <td>
-      <h1>¡Hola! Soy Alvaro 👋</h1>
-      <p>
-        lorem. 
-      </p>
-      <p>
-        <i>"lorem"</i>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img align="left" src="media/alzorPFP.png" width="200" height="200" alt="Foto de perfil de Alvaro" style="margin-right: 20px;" />
+  
+  <div align="left">
+    <h1>¡Hola! Soy Alvaro 👋</h1>
+    <p>
+      lorem. 
+    </p>
+    <p>
+      <i>"lorem"</i>
+    </p>
+  </div>
+  
+  <br clear="left"/>
+</div>
 
 <br />
 
