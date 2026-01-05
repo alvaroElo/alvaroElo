@@ -4,21 +4,15 @@
 
 <br />
 
-<div align="center">
-  <img align="left" src="media/alzorPFP.png" width="200" height="200" alt="Foto de perfil de Alvaro" style="margin-right: 20px;" />
-  
-  <div align="left">
-    <h1>¡Hola! Soy Alvaro 👋</h1>
-    <p>
-      lorem. 
-    </p>
-    <p>
-      <i>"lorem"</i>
-    </p>
-  </div>
-  
-  <br clear="left"/>
-</div>
+<img align="left" src="media/alzorPFP.png" width="200" height="200" alt="Foto de perfil de Alvaro" />
+
+### ¡Hola! Soy Alvaro 👋
+
+lorem. 
+
+*"lorem"*
+
+<br clear="left"/>
 
 <br />
 
