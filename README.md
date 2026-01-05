@@ -59,6 +59,14 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvaroElo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
+# 📬 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alvaroelo/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0101ff,100:ff01dd&section=footer" alt="footer" />
 </p>
