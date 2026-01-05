@@ -20,9 +20,7 @@
 
 <br clear="left"/>
 
-<br />
-
-## 🛠️ Stack Tecnológico
+# 🛠️ Stack Tecnológico
 
 <p align=center>
  <kbd>
@@ -44,7 +42,7 @@
     </kbd>
       <br>
     <kbd>
-      <kbd>Tecnologías en aprendizaje</kbd>
+      <kbd>Tecnologías en aprendizaje last comit</kbd>
       <br>
       <br>
       <a href="https://skillicons.dev">
