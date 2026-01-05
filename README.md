@@ -4,13 +4,20 @@
 
 <br />
 
-<img align="left" src="media/alzorPFP.png" width="200" height="200" alt="Foto de perfil de Alvaro" />
+<img align="left" src="media/alzorPFP.png" width="200" height="1000" alt="Foto de perfil de Alvaro" style="margin-right: 20px; margin-bottom: 10px;" />
 
-### ¡Hola! Soy Alvaro 👋
+### Alzor
+**TRAINEE Dev**
 
-lorem. 
+- 🧑‍💻 **Analista Programador** recién egresado en búsqueda de práctica profesional para seguir creciendo y aplicar mis conocimientos en proyectos reales.
 
-*"lorem"*
+- 💡 Tengo un interés variado tanto en **Backend** como en **Frontend**, me gusta explorar diferentes tecnologías y encontrar la mejor solución para cada problema. Disfruto aprendiendo nuevos lenguajes y frameworks.
+
+- 🎮 **Proyecto personal actual:** Trabajando en una aplicación que consume la API de Riot Games. Estoy explorando cómo integrar datos en tiempo real y crear visualizaciones interesantes.
+
+- 📌 **Datos extra sobre mí:** Disfruto de un buen café, juego videojuegos y paso tiempo con mis gatos. La combinación perfecta para recargar energías.
+
+*"Not <ins>DEAD</ins> yet..."*
 
 <br clear="left"/>
 
