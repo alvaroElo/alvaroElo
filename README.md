@@ -20,7 +20,7 @@
 
 <br clear="left"/>
 
-# 🛠️ Stack Tecnológico
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Stack Tecnológico
 
 <p align=center>
  <kbd>
@@ -42,7 +42,7 @@
     </kbd>
       <br>
     <kbd>
-      <kbd>Tecnologías en aprendizaje last comit</kbd>
+      <kbd>Tecnologías en aprendizaje</kbd>
       <br>
       <br>
       <a href="https://skillicons.dev">
@@ -52,7 +52,12 @@
 </p>
 </p>
 
-<br />
+# 📈 estadisticas
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alvaroElo&theme=tokyonight"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvaroElo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0101ff,100:ff01dd&section=footer" alt="footer" />
