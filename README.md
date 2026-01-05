@@ -7,7 +7,7 @@
 <table border="0" width="100%" align=center>
   <tr>
     <td width="30%" align="center">
-      <img src="https://github.com/alvaroElo.png" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Foto de perfil de Alvaro" />
+      <img src="media/alzorPFP.png" width="200" height="200" alt="Foto de perfil de Alvaro" />
     </td>
     <td>
       <h1>¡Hola! Soy Alvaro 👋</h1>
