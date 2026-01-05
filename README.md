@@ -6,8 +6,7 @@
 
 <img align="left" src="media/alzorPFP.png" width="200" height="1000" alt="Foto de perfil de Alvaro" style="margin-right: 20px; margin-bottom: 10px;" />
 
-### Alzor
-**TRAINEE Dev**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D300F7&width=435&lines=Alzor;TRAINEE+Dev+)](https://git.io/typing-svg)
 
 - 🧑‍💻 **Analista Programador** recién egresado en búsqueda de práctica profesional para seguir creciendo y aplicar mis conocimientos en proyectos reales.
 
